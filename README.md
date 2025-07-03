@@ -1,3 +1,6 @@
 # Demo
 
-Soe Description of the app am building
+Some Description of the app am building
+
+##
+Watch me blow from Zero to Hero.
